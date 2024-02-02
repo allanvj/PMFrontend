@@ -1,0 +1,96 @@
+.custom-card {
+  width: 50%;
+  margin-left: 25%;
+}
+
+.text-ad {
+  text-align: center;
+}
+
+.ad-container {
+  width: 100%;
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.ad-row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.ad-card-body {
+  padding: 1.25rem;
+
+}
+
+.ad-form-group {
+  margin-bottom: 0.5rem;
+  border: 3px black;
+}
+
+.ad-form-label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.ad-form-control {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.ad-btn-success {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+  text-align: center;
+}
+
+.ad-btn-danger {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  color: #fff;
+  background-color: #dc3545;
+  border-color: #dc3545;
+  text-align: center;
+
+}
+
+.text-word {
+  text-align: center;
+}

@@ -1,0 +1,44 @@
+.div {
+
+    background-color: rgb(189, 199, 210);
+    padding-top: 342px;
+}
+
+.App {
+    background-color: rgb(189, 199, 210);
+    width: 100%;
+    display: flex;
+    padding-left: 160px;
+    padding-top: 100px;
+    align-items: center;
+
+
+}
+
+table {
+    background-color: rgb(255, 255, 255);
+    border: 10px solid rgb(199, 196, 196);
+    box-shadow: 0 0 0.125rem rgba(0, 0, 0, 0.2);
+    width: 1000px;
+    height: 250px;
+    border-right: 50px;
+    border-bottom: 20px;
+    border-top: 20px;
+    border-left: 20px;
+    border-radius: 30px;
+
+}
+
+th {
+    border-bottom: 1px solid rgb(172, 172, 172);
+    border-bottom-width: 2px;
+
+}
+
+td {
+    text-align: center;
+}
+
+.tdata{
+    text-decoration: black;
+}

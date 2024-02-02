@@ -1,0 +1,21 @@
+.backg{
+    background-color: rgb(255, 255, 255);
+    background-image: url(/public/images/blurimage.jpg);
+    background-position: 100%;
+    border:2px black;
+    margin: 1px;
+    padding:3px;
+    
+}
+
+.main-ad{
+    padding:60px;
+    text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: inherit;
+  gap: 20px;
+    text-align: center;
+
+
+}

@@ -1,0 +1,47 @@
+.bg {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.75rem;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  box-shadow: 0 0 0.125rem rgba(0, 0, 0, 0.2);
+
+}
+
+.main-box {
+  padding: 1rem;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 3rem;
+
+}
+
+.side-box {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.75rem;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  box-shadow: 0 0 0.125rem rgba(0, 0, 0, 0.2);
+  width: 25%;
+  text-align: center;
+}
+
+.text {
+  text-align:center;
+  padding-bottom: 1rem;
+}
+
+
+.details {
+  margin-top: 4rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 18rem;
+  background-image: url(/public/images/bg1.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  text-align: center;
+}
